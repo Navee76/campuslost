@@ -1,0 +1,6 @@
+{
+  "name": "CampusLost - Smart College Lost & Found System",
+  "description": "Comprehensive college lost & found portal with smart item matching, student/staff/admin role dashboards, verification & claim workflows, and complete Spring Boot 3 Java project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
